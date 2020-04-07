@@ -11379,6 +11379,22 @@
       "state": "",
       "country": "India"
     }
+  },
+    {
+    "id": 806,
+    "name": "Jitendra Prasad",
+    "img": "https://s.gravatar.com/avatar/5c20617aa078d32978dc1937414bbb43?s=100",
+    "links": {
+      "website": "",
+      "linkedin": "https://www.linkedin.com/in/jitendra2/",
+      "github": "https://github.com/jitendra-maurya0"
+    },
+    "jobTitle": "Full Stack Java developer",
+    "location": {
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "country": "India"
+    }
   }
   ]
 }
